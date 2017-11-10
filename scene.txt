@@ -1,0 +1,7 @@
+SALA3|tipTonskogZapisa3|opera|3x3|true
+SALA4|tipTonskogZapisa4|drama, opera, balet|5x5|false
+SALA5|tipTonskogZapisa5|drama, balet|10x12|true
+SALA6|Tip2|balet, drama|12x7|true
+Sala7|TipTZ3|balet, drama, opera|20x20|false
+SALA1|tipTonskogZapisa1|drama, opera|2x8|false
+SALA2|tipTonskogZapisa2|balet, opera|4x3|false

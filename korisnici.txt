@@ -1,0 +1,5 @@
+maki|bbb|Marko|Markovic|34263562523|biletar|true
+Dzoni|Walker|Jovan|Matic||menadzer|false
+peki|123456|Dragojlo|Kalibracic|45635|biletar|true
+cica|234|Cicka|Cickic|3426332523|menadzer|false
+niki|aaaaaaaaa|Nikolija|Nikolic|332523|menadzer|true
